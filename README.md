@@ -2,14 +2,15 @@
 
 Supplementary data for single-cell machine learning and molecular dynamics analysis
 
-## Zenodo Data Repository
+## Download Data
 
-All data is hosted on Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+All supplementary data is available for download via Baidu Netdisk:
 
-**Note:** This repository contains only the README file. All data files are available for download from Zenodo.
+**Supplementary Data**
+- Link: [https://pan.baidu.com/s/1kxPEeTUYMwRu_s9-WfJkiA](https://pan.baidu.com/s/1kxPEeTUYMwRu_s9-WfJkiA)
+- Extraction code: x2r6
 
-## Contents on Zenodo
+## Contents
 
 ### GSEA Result Tables
 - `GSEA result table/CA2_Hallmark.csv` - Hallmark pathway analysis for CA2
@@ -36,9 +37,9 @@ All data is hosted on Zenodo:
 
 ## Usage
 
-1. Download all data from Zenodo
+1. Download all data from Baidu Netdisk
 2. Run the R code in `processed data(rds)/CODE.R` to reproduce the analysis
 
 ## Citation
 
-If you use this data, please cite our publication and the Zenodo repository.
+If you use this data, please cite our publication.
